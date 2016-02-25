@@ -4,7 +4,9 @@ Curly Brackets 2016 is a contest for the best talk ever performed at meet.js Sum
 
 Find your favourite talk in Issues added to this repository and add "+1" (including :+1:, if you like emoji) comment there – any comments that include "+1" will be counted. 
 
-You can vote only for one talk. Only first, the oldest "+1" comment added by you will be valid – other votes will be ignored.
+##Rules##
+
+You can vote **only for one talk**. Only first, the oldest "+1" comment added by you will be valid – other votes will be ignored.
 
 Votes from accounts created after February 24, 2016, or from which the sign up date is not available, will be ignored.
 
