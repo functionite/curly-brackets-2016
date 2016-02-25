@@ -6,7 +6,7 @@ Find your favourite talk in Issues added to this repository and add "+1" (includ
 
 You can vote only for one talk. Only first, the oldest "+1" comment added by you will be valid – other votes will be ignored.
 
-Votes from accounts created after February 25, 2016 will be ignored.
+Votes from accounts created after February 24, 2016 will be ignored.
 
 ##Winners and prizes##
 
